@@ -1,0 +1,14 @@
+{
+  "name": "n4m_texttospeech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "n4m_textToSpeech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^1.0.0"
+  }
+}
